@@ -5,6 +5,7 @@ A new Flutter project.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+The application generates cool-sounding names, the user can ask for the next name, favorite the current one, and review the list of favorited names on a separate page. The app is responsive to different screen sizes.
 
 A few resources to get you started if this is your first Flutter project:
 
